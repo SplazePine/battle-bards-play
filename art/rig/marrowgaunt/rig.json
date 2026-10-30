@@ -1,0 +1,193 @@
+{
+ "imgW": 530,
+ "imgH": 1139,
+ "parts": [
+  {
+   "name": "organ",
+   "file": "art/rig/marrowgaunt/organ.png",
+   "parent": "torso",
+   "pivot": [
+    230,
+    320
+   ],
+   "bbox": [
+    0,
+    0,
+    404,
+    463
+   ],
+   "z": 0,
+   "filled_px": 26873
+  },
+  {
+   "name": "tailL",
+   "file": "art/rig/marrowgaunt/tailL.png",
+   "parent": "base",
+   "pivot": [
+    150,
+    590
+   ],
+   "bbox": [
+    0,
+    558,
+    203,
+    976
+   ],
+   "z": 1,
+   "filled_px": 23541
+  },
+  {
+   "name": "tailR",
+   "file": "art/rig/marrowgaunt/tailR.png",
+   "parent": "base",
+   "pivot": [
+    350,
+    590
+   ],
+   "bbox": [
+    318,
+    558,
+    443,
+    863
+   ],
+   "z": 2,
+   "filled_px": 10451
+  },
+  {
+   "name": "base",
+   "file": "art/rig/marrowgaunt/base.png",
+   "parent": null,
+   "pivot": [
+    262,
+    1125
+   ],
+   "bbox": [
+    63,
+    149,
+    464,
+    1139
+   ],
+   "z": 3,
+   "filled_px": 10764
+  },
+  {
+   "name": "torso",
+   "file": "art/rig/marrowgaunt/torso.png",
+   "parent": "base",
+   "pivot": [
+    260,
+    560
+   ],
+   "bbox": [
+    106,
+    174,
+    438,
+    568
+   ],
+   "z": 4,
+   "filled_px": 46061
+  },
+  {
+   "name": "head",
+   "file": "art/rig/marrowgaunt/head.png",
+   "parent": "torso",
+   "pivot": [
+    275,
+    245
+   ],
+   "bbox": [
+    210,
+    94,
+    338,
+    253
+   ],
+   "z": 5,
+   "filled_px": 0
+  },
+  {
+   "name": "keyboard",
+   "file": "art/rig/marrowgaunt/keyboard.png",
+   "parent": "torso",
+   "pivot": [
+    295,
+    470
+   ],
+   "bbox": [
+    168,
+    390,
+    398,
+    551
+   ],
+   "z": 6,
+   "filled_px": 0
+  },
+  {
+   "name": "armL_up",
+   "file": "art/rig/marrowgaunt/armL_up.png",
+   "parent": "torso",
+   "pivot": [
+    140,
+    255
+   ],
+   "bbox": [
+    93,
+    226,
+    181,
+    464
+   ],
+   "z": 7,
+   "filled_px": 0
+  },
+  {
+   "name": "armL_lo",
+   "file": "art/rig/marrowgaunt/armL_lo.png",
+   "parent": "armL_up",
+   "pivot": [
+    125,
+    468
+   ],
+   "bbox": [
+    64,
+    448,
+    181,
+    748
+   ],
+   "z": 8,
+   "filled_px": 829
+  },
+  {
+   "name": "armR_up",
+   "file": "art/rig/marrowgaunt/armR_up.png",
+   "parent": "torso",
+   "pivot": [
+    350,
+    245
+   ],
+   "bbox": [
+    328,
+    210,
+    409,
+    449
+   ],
+   "z": 9,
+   "filled_px": 0
+  },
+  {
+   "name": "armR_lo",
+   "file": "art/rig/marrowgaunt/armR_lo.png",
+   "parent": "armR_up",
+   "pivot": [
+    408,
+    460
+   ],
+   "bbox": [
+    376,
+    438,
+    530,
+    733
+   ],
+   "z": 10,
+   "filled_px": 164
+  }
+ ]
+}

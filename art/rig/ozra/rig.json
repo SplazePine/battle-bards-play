@@ -1,0 +1,176 @@
+{
+ "imgW": 751,
+ "imgH": 1099,
+ "parts": [
+  {
+   "name": "cape",
+   "file": "art/rig/ozra/cape.png",
+   "parent": "torso",
+   "pivot": [
+    262,
+    300
+   ],
+   "bbox": [
+    0,
+    298,
+    308,
+    986
+   ],
+   "z": 0,
+   "filled_px": 35871
+  },
+  {
+   "name": "base",
+   "file": "art/rig/ozra/base.png",
+   "parent": null,
+   "pivot": [
+    400,
+    1075
+   ],
+   "bbox": [
+    106,
+    104,
+    596,
+    1099
+   ],
+   "z": 1,
+   "filled_px": 8811
+  },
+  {
+   "name": "torso",
+   "file": "art/rig/ozra/torso.png",
+   "parent": "base",
+   "pivot": [
+    390,
+    430
+   ],
+   "bbox": [
+    293,
+    148,
+    523,
+    448
+   ],
+   "z": 2,
+   "filled_px": 22990
+  },
+  {
+   "name": "head",
+   "file": "art/rig/ozra/head.png",
+   "parent": "torso",
+   "pivot": [
+    405,
+    180
+   ],
+   "bbox": [
+    241,
+    48,
+    464,
+    228
+   ],
+   "z": 3,
+   "filled_px": 4830
+  },
+  {
+   "name": "crown",
+   "file": "art/rig/ozra/crown.png",
+   "parent": "head",
+   "pivot": [
+    385,
+    95
+   ],
+   "bbox": [
+    324,
+    0,
+    451,
+    111
+   ],
+   "z": 4,
+   "filled_px": 0
+  },
+  {
+   "name": "armB_up",
+   "file": "art/rig/ozra/armB_up.png",
+   "parent": "torso",
+   "pivot": [
+    300,
+    215
+   ],
+   "bbox": [
+    227,
+    178,
+    353,
+    442
+   ],
+   "z": 5,
+   "filled_px": 0
+  },
+  {
+   "name": "armB_lo",
+   "file": "art/rig/ozra/armB_lo.png",
+   "parent": "armB_up",
+   "pivot": [
+    265,
+    445
+   ],
+   "bbox": [
+    220,
+    423,
+    308,
+    571
+   ],
+   "z": 6,
+   "filled_px": 998
+  },
+  {
+   "name": "spear",
+   "file": "art/rig/ozra/spear.png",
+   "parent": "armF_lo",
+   "pivot": [
+    632,
+    400
+   ],
+   "bbox": [
+    553,
+    14,
+    751,
+    1023
+   ],
+   "z": 7,
+   "filled_px": 2513
+  },
+  {
+   "name": "armF_up",
+   "file": "art/rig/ozra/armF_up.png",
+   "parent": "torso",
+   "pivot": [
+    480,
+    215
+   ],
+   "bbox": [
+    448,
+    183,
+    531,
+    342
+   ],
+   "z": 8,
+   "filled_px": 0
+  },
+  {
+   "name": "armF_lo",
+   "file": "art/rig/ozra/armF_lo.png",
+   "parent": "armF_up",
+   "pivot": [
+    490,
+    365
+   ],
+   "bbox": [
+    460,
+    328,
+    654,
+    436
+   ],
+   "z": 9,
+   "filled_px": 497
+  }
+ ]
+}
